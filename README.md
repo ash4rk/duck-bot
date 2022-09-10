@@ -1,5 +1,7 @@
 # Telegram Bot Template
 
+# Need to update README
+
 That is template for telegram bots based on next stack of technologies:
 
 * [Kotlin Coroutines](https://github.com/Kotlin/kotlinx.coroutines)
